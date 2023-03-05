@@ -1,4 +1,4 @@
 # undergrad_thesis
 This repository was created to store my thesis works titled, "<b>Prediction of Arrhythmia after Acute Myocardial Infarction Using Machine Learning and Statistical Tecniques</b>". The authors of the thesis are <b>Salauddin Tapu</b> and <b>Ummmay Umama Gronthy</b>, performed their work under the supervision of <b>Dr. Uzzal Biswas</b>, Associate Professor and <b>Dr. Abdullah-Al Nahid</b>, Professor of Electronics and Communication Engineering Discipline, Khulna University, Khulna, Bangadesh.
-##Mealpy
+## Mealpy
 Mealpy (https://github.com/thieu1995/mealpy) has done an appreciable work. They have implemented almost every metaheuristics in this repository. I have also taken the help of <b>Mealpy</b> to implement the <b>Cuckoo Search Algorithm</b> in this thesis. Hats off to their great work.
