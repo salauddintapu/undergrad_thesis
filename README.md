@@ -1,0 +1,2 @@
+# undergrad_thesis
+This repository was created to store my thesis works titled, "<b>Prediction of Arrhythmia after Acute Myocardial Infarction Using Machine Learning and Statistical Tecniques</b>". The authors of the thesis are <b>Salauddin Tapu</b> and <b>Ummmay Umama Gronthy</b>, performed their work under the supervision of <b>Dr. Uzzal Biswas</b>, Associate Professor and <b>Dr. Abdullah-Al Nahid</b>, Professor of Electronics and Communication Engineering Discipline, Khulna University, Khulna, Bangadesh.
